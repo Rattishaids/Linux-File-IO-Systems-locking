@@ -1,42 +1,57 @@
 # Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
-# AIM:
+
+## AIM:
 To Write a C program that illustrates files copying and locking
 
-# DESIGN STEPS:
+---
+
+## DESIGN STEPS:
 
 ### Step 1:
-
-Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
+Navigate to Linux environment.
 
 ### Step 2:
-
-Write the C Program using Linux IO Systems locking
+Write the C programs using Linux File IO System Calls.
 
 ### Step 3:
+Compile and execute the programs.
 
-Execute the C Program for the desired output. 
+---
 
 # PROGRAM:
 
-## 1.To Write a C program that illustrates files copying 
+## 1. Program for File Copying
 
+```c
+PASTE FILECOPY CODE HERE
+```
 
-
-
-
-
-
-## 2.To Write a C program that illustrates files locking
-
-
-
+---
 
 ## OUTPUT
 
+### File Copy Output
 
+![File Copy Output](copy-output.png)
 
+---
 
+## 2. Program for File Locking
+
+```c
+PASTE LOCK CODE HERE
+```
+
+---
+
+## OUTPUT
+
+### File Locking Output
+
+![Lock Output](lock-output.png)
+
+---
 
 # RESULT:
+
 The programs are executed successfully.
