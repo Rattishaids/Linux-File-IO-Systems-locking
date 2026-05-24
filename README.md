@@ -82,7 +82,8 @@ int main(int argc, char *argv[]) {
 
 ## File Copy Output
 
-![File Copy Output](copy-output.png)
+<img width="747" height="106" alt="image" src="https://github.com/user-attachments/assets/db6d633f-905a-40ae-bb92-4a521e8c22c0" />
+
 
 ---
 
