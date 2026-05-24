@@ -48,4 +48,4 @@ int main(int argc, char *argv[]) {
     close(out);
 
     return EXIT_SUCCESS;
-}/
+}
